@@ -1,2 +1,29 @@
 dest: 'dist'
 title: "Arsley's blog"
+
+themeConfig:
+  nav:
+  - text: 'Tech'
+    link: '/tech/'
+  - text: 'Diary'
+    link: '/diary/'
+  - text: 'Other'
+    link: '/other/'
+  - text: 'GitHub'
+    link: 'https://github.com/arsley/blog'
+
+  sidebar:
+    '/diary/':
+    - 'sample1'
+    - 'sample2'
+    - 'sample3'
+
+    '/other/':
+    - 'sample1'
+    - 'sample2'
+    - 'sample3'
+
+    '/tech/':
+    - 'sample1'
+    - 'sample2'
+    - 'sample3'
