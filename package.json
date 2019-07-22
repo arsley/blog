@@ -1,0 +1,7 @@
+{
+  "name": "blog",
+  "description": "My Blog",
+  "repository": "https://github.com/arsley/blog",
+  "author": "arsley <blue20will@gmail.com>",
+  "private": true
+}
