@@ -6,6 +6,10 @@ cache:
 - npm
 - yarn
 
+branches:
+  only:
+  - master
+
 before_script: yarn
 
 script:
