@@ -1,2 +1,3 @@
+base: '/blog/'
 dest: 'dist'
 title: "Arsley's blog"
